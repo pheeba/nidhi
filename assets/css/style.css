@@ -451,13 +451,13 @@ h6 {
   z-index: 1;
 }
 @media (max-width: 991px) {
-  .video-background-holder {
+  .video-background-holder viedo {
     width: 100% ;
     height: auto;
   }
 }
   @media (max-width: 991px) {
-  .video-background-holder {
+  .video-background-holder viedo {
     width: auto ;
     height: auto;
   }
