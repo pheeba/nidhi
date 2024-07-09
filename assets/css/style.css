@@ -450,8 +450,18 @@ h6 {
   opacity: 0.5;
   z-index: 1;
 }
-
-
+@media (max-width: 991px) {
+  .video-background-holder {
+    width: 100% ;
+    height: auto;
+  }
+}
+  @media (max-width: 991px) {
+  .video-background-holder {
+    width: auto ;
+    height: auto;
+  }
+  }
 
 #hero h1 {
   margin: 0;
